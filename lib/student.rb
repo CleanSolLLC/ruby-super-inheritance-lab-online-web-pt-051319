@@ -5,6 +5,6 @@ class Student
   end
 
   def raise_hand
-    10. times "Pick me!"
+    "Pick me!"
   end
 end
