@@ -12,7 +12,7 @@ class ChattyStudent < Student
         me just tell you who died..."
     end
 
-    def raise_hand 
+    def raise_hand
       super 10.times
     end
 end
