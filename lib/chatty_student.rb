@@ -10,7 +10,7 @@ class ChattyStudent < Student
 
     def raise_hand
       super
-        10.times {puts raise_hand}
+        10.times {puts "#{raise_hand}"}
 
     end
 end
