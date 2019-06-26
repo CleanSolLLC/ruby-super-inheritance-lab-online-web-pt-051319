@@ -6,6 +6,6 @@ class Student
   end
 
   def raise_hand
-    @pick_me = "Pick me!"
+    puts "Pick me!"
   end
 end
