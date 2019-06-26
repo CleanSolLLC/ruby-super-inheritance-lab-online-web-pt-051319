@@ -4,7 +4,7 @@ class Student
     "Hey there! I'm so excited to learn stuff."
   end
 
-  def 10.times raise_hand
-    "Pick me!"
+  def raise_hand
+    10. times "Pick me!"
   end
 end
