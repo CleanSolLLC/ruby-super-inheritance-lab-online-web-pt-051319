@@ -10,7 +10,7 @@ class ChattyStudent < Student
 
     def raise_hand
       super
-        do puts 10.times "#{@pick_me}"
+        @pick_me.10.times
         end
     end
 end
