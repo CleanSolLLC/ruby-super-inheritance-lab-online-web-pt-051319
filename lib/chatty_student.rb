@@ -9,7 +9,6 @@ class ChattyStudent < Student
       last night? You didn't?! Oh man, it was so crazy!
        What, you don't want any spoilers? Okay well let
       me just tell you who died..."
-    end
   end
 
 end
